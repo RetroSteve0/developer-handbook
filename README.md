@@ -4,3 +4,6 @@ This is my personal developer handbook. I've chosen to keep it public because I 
 ## Python
 [python/websockets.md](python/websockets.md)
 [python/requests.md](python/requests.md)
+
+## Some more edits
+
